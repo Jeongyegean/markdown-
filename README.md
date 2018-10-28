@@ -35,7 +35,7 @@
  [GOOGLE](http://google.com) <br>
  [NAVER](http://naver.com) <br>
  [GitHub](https://github.com) <br>
- 5. 이미지 <br>
+5. 이미지 <br>
  ![GitHub](https://imgnews.pstatic.net/image/014/2018/06/04/0004033156_002_20180604074304493.jpg?type=w647)<br>
  6. 코드강조<br>
  -인라인 코드 강조 : 요소에 배경 이미지를 삽입할 수 있다.<br>
@@ -57,5 +57,5 @@
  *** <br>
  ___ <br>
  10.줄바꿈<br>
- 일반 줄바꿈이 동작하지 않는 호나경의 경우 '2번의 띄어쓰기'나 '<br>'을 활용할 수 있습니다.
+일반 줄바꿈이 동작하지 않는 호나경의 경우 '2번의 띄어쓰기'나 '<br>'을 활용할 수 있습니다.
  
